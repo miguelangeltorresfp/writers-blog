@@ -1,3 +1,14 @@
+
+# Project built following a Code Realm Video Tutorial
+
+## YOUTUBE - [LINK](https://www.youtube.com/watch?v=rIoflwHFd6o&list=PLcCp4mjO-z9_4Wak3Uq8dEWC6H1fbSNgL)
+
+## GITHUB - [LINK](https://github.com/alex996/react-writers-blog)
+
+## Develop - `yarn dev`
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
